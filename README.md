@@ -21,3 +21,6 @@ The model effectively handled unbalanced data and captured hidden patterns in lo
 Tools & Technologies:
 
 Python, Pandas, NumPy, Scikit-learn ,TensorFlow, LightGBM ,XGboost
+
+
+@aliaaserageldeen37-eng
